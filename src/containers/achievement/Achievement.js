@@ -29,7 +29,7 @@ export default function Achievement() {
                   ? "dark-mode subTitle achievement-subtitle"
                   : "subTitle achievement-subtitle"
               }
-            >
+            > 
               {achievementSection.subtitle}
             </p>
           </div>
